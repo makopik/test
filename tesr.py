@@ -1,2 +1,2 @@
-print('not test')
+print('test')
 print('Istomin')
